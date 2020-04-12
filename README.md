@@ -1,0 +1,2 @@
+# Furry bot
+ spoko bociarz
